@@ -1,5 +1,5 @@
 ## EX.NO: 10 <br>
-## DATE: 10.05.2023
+## DATE: 17.05.2023
 ## <p align="center">IMPLEMENTATION OF EROSION AND DILATION</p>
 
 ## Aim
